@@ -1,0 +1,3008 @@
+Version: 1
+Seed: -2488403706672476175
+Residences:
+  world5_Agrestic:
+    LeaveMessage: 'Du verlässt Agrestic - auf Wiedersehen! '
+    EnterMessage: 'Herzlich willkommen in Agrestic! =) '
+    Permissions:
+      PlayerFlags:
+        0b9de7b8-4bb1-4aac-9a3f-db67df818f89:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 0b9de7b8-4bb1-4aac-9a3f-db67df818f89
+      OwnerLastKnownName: Dirty_Kowalski
+    CreatedOn: 1501712931844
+    Areas:
+      main:
+        X1: -179
+        Y1: 255
+        Z1: -2028
+        X2: -418
+        Y2: 40
+        Z2: -2350
+  world5_ArrakisBhf:
+    LeaveMessage: Now leaving %residence.
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        c8f7a730-6bd1-36eb-a9c0-e25b433c8c43:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1501712931821
+    Areas:
+      main:
+        X1: -620
+        Y1: 255
+        Z1: -2075
+        X2: -775
+        Y2: 40
+        Z2: -2250
+  world5_BaieAzur:
+    LeaveMessage: 'á la revoyure! '
+    TPLoc:
+      X: 4150.5
+      Pitch: 0.0
+      Y: 63.0
+      Z: 1800.5
+      Yaw: 0.0
+    EnterMessage: 'Bienvenue á la Baie Azur '
+    Permissions:
+      PlayerFlags:
+        0cd0a46a-2ffc-4a85-9588-78284995bee3:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1501712931780
+    Areas:
+      main:
+        X1: 4600
+        Y1: 255
+        Z1: 2100
+        X2: 3700
+        Y2: 0
+        Z2: 1500
+  world5_Ceydynia:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -1863.5
+      Pitch: 0.0
+      Y: 63.0
+      Z: 1230.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags: {}
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1501712931795
+    Areas:
+      main:
+        X1: -1825
+        Y1: 255
+        Z1: 1260
+        X2: -1903
+        Y2: 40
+        Z2: 1200
+  world5_Eerfels:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -1050.5
+      Pitch: 0.0
+      Y: 99.0
+      Z: -1610.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        461cb2b0-c68d-4087-bb56-2f803ab368c1:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 461cb2b0-c68d-4087-bb56-2f803ab368c1
+      OwnerLastKnownName: RedBlackF
+    CreatedOn: 1504013205721
+    Areas:
+      main:
+        X1: -923
+        Y1: 255
+        Z1: -1448
+        X2: -1179
+        Y2: 0
+        Z2: -1775
+  world5_Estoril:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -1894.5
+      Pitch: 0.0
+      Y: 63.0
+      Z: -3074.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        469ce09c-0f90-456f-8410-d9735a9c700f:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 469ce09c-0f90-456f-8410-d9735a9c700f
+      OwnerLastKnownName: Mh_arco
+    CreatedOn: 1505498161983
+    Areas:
+      main:
+        X1: -1860
+        Y1: 255
+        Z1: -3050
+        X2: -1930
+        Y2: 0
+        Z2: -3100
+  world5_Foliosvalley:
+    LeaveMessage: Komm gerne bald wieder, vielleicht gibt es dann auch Pfannkuchen
+      <3
+    TPLoc:
+      X: -1213.5
+      Pitch: 0.0
+      Y: 65.0
+      Z: 339.5
+      Yaw: 0.0
+    Subzones:
+      w5_Fova_Slimefarm:
+        LeaveMessage: Now leaving %residence.
+        EnterMessage: Welcome %player to %residence, owned by %owner.
+        Permissions:
+          PlayerFlags:
+            c4a8e2a2-b485-4a66-b320-41486c273409:
+              container: true
+              ignite: true
+              move: true
+              build: true
+              use: true
+          AreaFlags:
+            container: true
+            ignite: true
+            build: true
+            piston: true
+            firespread: false
+            use: true
+            monsters: true
+            pvp: true
+            tnt: true
+            creeper: true
+            flow: true
+          OwnerUUID: c4a8e2a2-b485-4a66-b320-41486c273409
+          OwnerLastKnownName: Laura__W
+        CreatedOn: 1587921187753
+        Areas:
+          w5_fova_slimefarm:
+            X1: -1409
+            Y1: 12
+            Z1: 543
+            X2: -1440
+            Y2: 7
+            Z2: 512
+    EnterMessage: Willkommen in Foliosvalley, Schildiland, Wasteland & Skervik. Bleibe
+      gern länger als nur zur Durchreise. :D
+    Permissions:
+      PlayerFlags:
+        c4a8e2a2-b485-4a66-b320-41486c273409:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: c4a8e2a2-b485-4a66-b320-41486c273409
+      OwnerLastKnownName: Laura__W
+    CreatedOn: 1524090815759
+    Areas:
+      fova5:
+        X1: -1500
+        Y1: 255
+        Z1: 800
+        X2: -1900
+        Y2: 0
+        Z2: 600
+      fova4:
+        X1: -1000
+        Y1: 255
+        Z1: 500
+        X2: -1800
+        Y2: 0
+        Z2: 0
+      magnolia-verbindung:
+        X1: -1479
+        Y1: 255
+        Z1: 10
+        X2: -1773
+        Y2: 0
+        Z2: -88
+      sumpfloch:
+        X1: -1639
+        Y1: 255
+        Z1: 604
+        X2: -1810
+        Y2: 0
+        Z2: 490
+      grenze_veronhafen:
+        X1: -1401
+        Y1: 255
+        Z1: 839
+        X2: -1864
+        Y2: 0
+        Z2: 595
+      marktplatz:
+        X1: -1091
+        Y1: 255
+        Z1: 529
+        X2: -1338
+        Y2: 0
+        Z2: 149
+      marketsquare:
+        X1: -1062
+        Y1: 255
+        Z1: 507
+        X2: -1646
+        Y2: 0
+        Z2: 36
+      main:
+        X1: -1160
+        Y1: 255
+        Z1: 659
+        X2: -1400
+        Y2: 0
+        Z2: 400
+      skervik_nord:
+        X1: -1767
+        Y1: 255
+        Z1: -1
+        X2: -1799
+        Y2: 0
+        Z2: -110
+      westen:
+        X1: -1401
+        Y1: 255
+        Z1: 730
+        X2: -1646
+        Y2: 0
+        Z2: 508
+      fova3:
+        X1: -1800
+        Y1: 255
+        Z1: 600
+        X2: -2300
+        Y2: 0
+        Z2: -200
+  world5_Gracewood:
+    LeaveMessage: Now leaving %residence.
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        e690e368-c3d8-4f72-836f-bd6a621becbe:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: e690e368-c3d8-4f72-836f-bd6a621becbe
+      OwnerLastKnownName: Skeldor
+    CreatedOn: 1560175276785
+    Areas:
+      main:
+        X1: 654
+        Y1: 255
+        Z1: 1033
+        X2: 548
+        Y2: 0
+        Z2: 860
+  world5_Hauptstadt:
+    LeaveMessage: Gute Reise!
+    TPLoc:
+      X: 225.5
+      Pitch: 0.0
+      Y: 63.0
+      Z: -170.5
+      Yaw: 0.0
+    EnterMessage: Willkommen in der Hauptstadt Tyrhaven!
+    Permissions:
+      PlayerFlags:
+        a2b93640-9dff-4c3c-a6c7-bd75329d8997:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: false
+        build: true
+        tnt: true
+        nmonsters: false
+        creeper: true
+        flow: true
+      OwnerUUID: a2b93640-9dff-4c3c-a6c7-bd75329d8997
+      OwnerLastKnownName: Kunsi
+    CreatedOn: 1505491629687
+    Areas:
+      palebridge:
+        X1: 628
+        Y1: 255
+        Z1: 444
+        X2: 346
+        Y2: 0
+        Z2: 46
+      flughafen:
+        X1: 220
+        Y1: 255
+        Z1: -400
+        X2: -180
+        Y2: 0
+        Z2: -640
+      main:
+        X1: 500
+        Y1: 255
+        Z1: 120
+        X2: -50
+        Y2: 0
+        Z2: -463
+      hangars:
+        X1: 115
+        Y1: 255
+        Z1: -641
+        X2: -30
+        Y2: 0
+        Z2: -670
+  world5_Hinokage:
+    LeaveMessage: またね～ - Bis bald! :)
+    EnterMessage: 日之影へようこそ！ - Willkommen in Hinokage! :)
+    Permissions:
+      PlayerFlags:
+        14ef7289-2d73-4100-a7cd-e8a568b9fde0:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 14ef7289-2d73-4100-a7cd-e8a568b9fde0
+      OwnerLastKnownName: kurakurai
+    CreatedOn: 1560862458474
+    Areas:
+      nord:
+        X1: 3150
+        Y1: 255
+        Z1: 475
+        X2: 2900
+        Y2: 0
+        Z2: 275
+      mitte:
+        X1: 3400
+        Y1: 255
+        Z1: 850
+        X2: 2650
+        Y2: 0
+        Z2: 475
+      main:
+        X1: 3200
+        Y1: 255
+        Z1: 1295
+        X2: 2550
+        Y2: 0
+        Z2: 850
+  world5_InternationalAirportJava:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -1802.5
+      Pitch: 0.0
+      Y: 63.0
+      Z: 2385.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        67b26b2e-6b63-4bc4-b9d5-74477d2e1d0a:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        animals: false
+        creeper: true
+        flow: true
+      OwnerUUID: 67b26b2e-6b63-4bc4-b9d5-74477d2e1d0a
+      OwnerLastKnownName: M1dor1
+    CreatedOn: 1501712931785
+    Areas:
+      main:
+        X1: -1601
+        Y1: 255
+        Z1: 2564
+        X2: -2006
+        Y2: 0
+        Z2: 2205
+  world5_Ironforge:
+    LeaveMessage: 'Gehabt euch wohl! '
+    TPLoc:
+      X: -3000.5
+      Pitch: 0.0
+      Y: 85.0
+      Z: -550.5
+      Yaw: 0.0
+    EnterMessage: 'Seid gegrüßt, edler Reisender! Willkommen in Ironforge. '
+    Permissions:
+      PlayerFlags:
+        a2b93640-9dff-4c3c-a6c7-bd75329d8997:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: a2b93640-9dff-4c3c-a6c7-bd75329d8997
+      OwnerLastKnownName: Kunsi
+    CreatedOn: 1501712931857
+    Areas:
+      main:
+        X1: -2701
+        Y1: 255
+        Z1: -401
+        X2: -3301
+        Y2: 0
+        Z2: -701
+  world5_Itsee:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: 4015.5
+      Pitch: 0.0
+      Y: 105.0
+      Z: -1134.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        66c099d3-99cc-4b07-b2a7-0a7b17249c03:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 66c099d3-99cc-4b07-b2a7-0a7b17249c03
+      OwnerLastKnownName: Lubadubs
+    CreatedOn: 1504619807623
+    Areas:
+      main2:
+        X1: 3679
+        Y1: 255
+        Z1: -590
+        X2: 3400
+        Y2: 0
+        Z2: -1535
+      main:
+        X1: 4350
+        Y1: 255
+        Z1: -540
+        X2: 3680
+        Y2: 0
+        Z2: -1730
+  world5_JavaFarm:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -2115.5
+      Pitch: 0.0
+      Y: 74.0
+      Z: 2241.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        67b26b2e-6b63-4bc4-b9d5-74477d2e1d0a:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 67b26b2e-6b63-4bc4-b9d5-74477d2e1d0a
+      OwnerLastKnownName: M1dor1
+    CreatedOn: 1518117761353
+    Areas:
+      main:
+        X1: -2007
+        Y1: 255
+        Z1: 2374
+        X2: -2225
+        Y2: 0
+        Z2: 2107
+  world5_Jeju:
+    LeaveMessage: Now leaving %residence.
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        469ce09c-0f90-456f-8410-d9735a9c700f:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 469ce09c-0f90-456f-8410-d9735a9c700f
+      OwnerLastKnownName: Mh_arco
+    CreatedOn: 1608413761933
+    Areas:
+      main:
+        X1: -1977
+        Y1: 255
+        Z1: -2187
+        X2: -2134
+        Y2: 0
+        Z2: -2344
+  world5_Kalamaja:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -2928.5
+      Pitch: 0.0
+      Y: 79.0
+      Z: -3084.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        469ce09c-0f90-456f-8410-d9735a9c700f:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 469ce09c-0f90-456f-8410-d9735a9c700f
+      OwnerLastKnownName: Mh_arco
+    CreatedOn: 1518986028393
+    Areas:
+      main:
+        X1: -2855
+        Y1: 255
+        Z1: -3021
+        X2: -3004
+        Y2: 0
+        Z2: -3149
+  world5_Kaskeninsel:
+    LeaveMessage: Auf Wiedersehen auf der Kaskeninsel!
+    TPLoc:
+      X: -499.0
+      Pitch: 0.0
+      Y: 72.0
+      Z: 2634.0
+      Yaw: 0.0
+    Subzones:
+      dungeon_wassertunnel:
+        LeaveMessage: Now leaving %residence.
+        EnterMessage: Betreten auf eigene Gefahr!
+        Permissions:
+          PlayerFlags:
+            11c95567-ac27-3a1e-96ef-2540bcab17f6:
+              container: true
+              ignite: true
+              move: true
+              build: true
+              use: true
+          AreaFlags:
+            container: true
+            ignite: true
+            firespread: false
+            piston: true
+            build: true
+            use: true
+            monsters: true
+            pvp: true
+            tnt: true
+            creeper: false
+            flow: true
+          OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+          OwnerLastKnownName: gobo77
+        CreatedOn: 1501712931763
+        Areas:
+          dungeon_wassertunnel:
+            X1: -589
+            Y1: 50
+            Z1: 2506
+            X2: -595
+            Y2: 45
+            Z2: 2500
+      skelettfarm:
+        LeaveMessage: Now leaving %residence.
+        EnterMessage: Welcome %player to %residence, owned by %owner.
+        Permissions:
+          PlayerFlags:
+            dcf5fe78-bf2b-4093-b865-048819c57eb0:
+              container: true
+              ignite: true
+              move: true
+              build: true
+              use: true
+          AreaFlags:
+            container: true
+            ignite: true
+            build: true
+            piston: true
+            firespread: false
+            use: true
+            monsters: true
+            pvp: true
+            tnt: true
+            creeper: true
+            flow: true
+          OwnerUUID: dcf5fe78-bf2b-4093-b865-048819c57eb0
+          OwnerLastKnownName: gobo77
+        CreatedOn: 1505747614317
+        Areas:
+          skelettfarm:
+            X1: -701
+            Y1: 29
+            Z1: 2477
+            X2: -707
+            Y2: 25
+            Z2: 2470
+      arenadungeon:
+        LeaveMessage: Now leaving %residence.
+        EnterMessage: Betreten auf eigene Gefahr!
+        Permissions:
+          PlayerFlags:
+            11c95567-ac27-3a1e-96ef-2540bcab17f6:
+              container: true
+              ignite: true
+              move: true
+              build: true
+              use: true
+          AreaFlags:
+            container: true
+            ignite: true
+            firespread: false
+            piston: true
+            build: true
+            use: true
+            monsters: true
+            pvp: true
+            tnt: true
+            creeper: false
+            flow: true
+          OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+          OwnerLastKnownName: gobo77
+        CreatedOn: 1501712931763
+        Areas:
+          Arenadungeon:
+            X1: -525
+            Y1: 66
+            Z1: 2638
+            X2: -533
+            Y2: 62
+            Z2: 2630
+    EnterMessage: 'Willkommen auf der Kaskeninsel! Fliegen ist erlaubt! '
+    Permissions:
+      PlayerFlags:
+        11c95567-ac27-3a1e-96ef-2540bcab17f6:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        nmonsters: false
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1501712931760
+    Areas:
+      Ostwald:
+        X1: -25
+        Y1: 255
+        Z1: 2925
+        X2: -400
+        Y2: 0
+        Z2: 2290
+      Suedkap:
+        X1: -175
+        Y1: 255
+        Z1: 2990
+        X2: -350
+        Y2: 0
+        Z2: 2925
+      main:
+        X1: -400
+        Y1: 255
+        Z1: 2875
+        X2: -750
+        Y2: 0
+        Z2: 2450
+  world5_Kingsbridge:
+    LeaveMessage: 'Bye... '
+    TPLoc:
+      X: -500.5
+      Pitch: 0.0
+      Y: 82.0
+      Z: 418.5
+      Yaw: 0.0
+    EnterMessage: 'Welcome %player to Kingsbridge '
+    Permissions:
+      PlayerFlags: {}
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1501712931822
+    Areas:
+      main:
+        X1: -465
+        Y1: 255
+        Z1: 473
+        X2: -537
+        Y2: 0
+        Z2: 363
+  world5_Knuffhaven:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -675.5
+      Pitch: 0.0
+      Y: 64.0
+      Z: 1902.5
+      Yaw: 0.0
+    EnterMessage: 'Willkommen in Knuffhaven, der größten Stadt im Knuff-Archipel! '
+    Permissions:
+      PlayerFlags: {}
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1501712931784
+    Areas:
+      main:
+        X1: -623
+        Y1: 255
+        Z1: 1965
+        X2: -730
+        Y2: 40
+        Z2: 1839
+  world5_Lakeford:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: 365.5
+      Pitch: 0.0
+      Y: 69.0
+      Z: 665.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags: {}
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1501712931804
+    Areas:
+      main:
+        X1: 430
+        Y1: 255
+        Z1: 730
+        X2: 300
+        Y2: 0
+        Z2: 600
+  world5_Magnolia:
+    LeaveMessage: Gute Reise.
+    EnterMessage: Willkommen in Magnolia.
+    Permissions:
+      PlayerFlags:
+        b5facd36-1209-41de-a85a-208c9b434d45:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: b5facd36-1209-41de-a85a-208c9b434d45
+      OwnerLastKnownName: Spezi212
+    CreatedOn: 1589757352880
+    Areas:
+      main:
+        X1: -1352
+        Y1: 255
+        Z1: -89
+        X2: -1766
+        Y2: 0
+        Z2: -571
+  world5_Mansura:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -1129.5
+      Pitch: 0.0
+      Y: 64.0
+      Z: -2009.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        c8f7a730-6bd1-36eb-a9c0-e25b433c8c43:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1501712931804
+    Areas:
+      main:
+        X1: -1000
+        Y1: 255
+        Z1: -1800
+        X2: -1260
+        Y2: 40
+        Z2: -2220
+  world5_Mizen:
+    LeaveMessage: Sie verlassen die Stadt Mizen.
+    TPLoc:
+      X: -538.5
+      Pitch: 0.0
+      Y: 74.0
+      Z: -2959.5
+      Yaw: 0.0
+    Subzones:
+      slimefarm:
+        LeaveMessage: '-'
+        EnterMessage: ACHTUNG BOMBEN
+        Permissions:
+          PlayerFlags:
+            62f489d4-a953-3212-b335-47ce4f066a43:
+              container: true
+              ignite: true
+              move: true
+              build: true
+              use: true
+          AreaFlags:
+            container: true
+            ignite: true
+            build: true
+            piston: true
+            firespread: false
+            use: true
+            monsters: true
+            pvp: true
+            tnt: true
+            creeper: true
+            flow: true
+          OwnerUUID: b3160d83-0a14-4abf-80cf-f607267af378
+          OwnerLastKnownName: Costamiri
+        CreatedOn: 1501712931846
+        Areas:
+          Slimefarm:
+            X1: -462
+            Y1: 40
+            Z1: -2814
+            X2: -483
+            Y2: 0
+            Z2: -2835
+          killer:
+            X1: -457
+            Y1: 9
+            Z1: -2821
+            X2: -465
+            Y2: 2
+            Z2: -2827
+    EnterMessage: Willkommen in der Sidraistischen Stadt Mizen
+    Permissions:
+      PlayerFlags:
+        62f489d4-a953-3212-b335-47ce4f066a43:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: b3160d83-0a14-4abf-80cf-f607267af378
+      OwnerLastKnownName: Costamiri
+    CreatedOn: 1501712931846
+    Areas:
+      talvik:
+        X1: -490
+        Y1: 254
+        Z1: -2960
+        X2: -700
+        Y2: 0
+        Z2: -3100
+      main0317:
+        X1: -330
+        Y1: 255
+        Z1: -2680
+        X2: -560
+        Y2: 0
+        Z2: -2960
+  world5_Mizen_Burginsel:
+    LeaveMessage: 'Sie verlassen den Schutz der Burg. Hüten Sie sich vor den Untiefen
+      der Meere! '
+    TPLoc:
+      X: 10.5
+      Pitch: 0.0
+      Y: 76.0
+      Z: -3089.5
+      Yaw: 0.0
+    EnterMessage: 'Willkommen auf der Mizener Burginsel! '
+    Permissions:
+      PlayerFlags:
+        62f489d4-a953-3212-b335-47ce4f066a43:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: b3160d83-0a14-4abf-80cf-f607267af378
+      OwnerLastKnownName: Costamiri
+    CreatedOn: 1501712931850
+    Areas:
+      main:
+        X1: 110
+        Y1: 255
+        Z1: -3010
+        X2: -90
+        Y2: 0
+        Z2: -3170
+  world5_Nachtburg:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: 1427.5
+      Pitch: 0.0
+      Y: 81.0
+      Z: -4112.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        9bb0b07b-de8c-4a81-b554-65b234e440d2:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 9bb0b07b-de8c-4a81-b554-65b234e440d2
+      OwnerLastKnownName: ChaosCG
+    CreatedOn: 1518114392470
+    Areas:
+      main:
+        X1: 1473
+        Y1: 255
+        Z1: -4062
+        X2: 1380
+        Y2: 0
+        Z2: -4165
+  world5_Newport:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: 1300.5
+      Pitch: 0.0
+      Y: 63.0
+      Z: -299.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        d0908b4d-981e-392d-8fae-6d315403c6e8:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1501712931797
+    Areas:
+      main:
+        X1: 1600
+        Y1: 255
+        Z1: 0
+        X2: 1000
+        Y2: 40
+        Z2: -600
+  world5_Niflheim:
+    LeaveMessage: 'Du verlässt nun den Schutz Nokholms. Eine gute Reise! '
+    TPLoc:
+      X: 595.0
+      Pitch: 0.0
+      Y: 68.0
+      Z: -3714.0
+      Yaw: 0.0
+    EnterMessage: 'Willkommen in Nokholm, der Stadt im Eis. '
+    Permissions:
+      PlayerFlags: {}
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1501712931779
+    Areas:
+      main:
+        X1: 818
+        Y1: 255
+        Z1: -3615
+        X2: 460
+        Y2: 40
+        Z2: -3915
+  world5_Numazu:
+    LeaveMessage: Bis bald! :) - またね～
+    EnterMessage: Willkommen im Fährhafen Numazu! :) - 沼津渡船場へようこそ！
+    Permissions:
+      PlayerFlags:
+        14ef7289-2d73-4100-a7cd-e8a568b9fde0:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 14ef7289-2d73-4100-a7cd-e8a568b9fde0
+      OwnerLastKnownName: kurakurai
+    CreatedOn: 1560863187790
+    Areas:
+      main:
+        X1: 2190
+        Y1: 255
+        Z1: 1030
+        X2: 2130
+        Y2: 0
+        Z2: 945
+  world5_Rhyn:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -1449.0
+      Pitch: 0.0
+      Y: 70.0
+      Z: 1788.0
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        652eb04c-3d8b-3109-9ba3-b0b5bdbaa881:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        flow: true
+        creeper: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1501712931841
+    Areas:
+      main:
+        X1: -1415
+        Y1: 255
+        Z1: 1962
+        X2: -1669
+        Y2: 40
+        Z2: 1610
+  world5_Sea_Island:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -624.5
+      Pitch: 0.0
+      Y: 63.0
+      Z: 3076.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        dfee4546-9448-483f-96c2-df118bbeadbe:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        flow: true
+        creeper: true
+      OwnerUUID: dfee4546-9448-483f-96c2-df118bbeadbe
+      OwnerLastKnownName: Serianoxx
+    CreatedOn: 1501712931805
+    Areas:
+      Ostinsel:
+        X1: -275
+        Y1: 255
+        Z1: 3190
+        X2: -350
+        Y2: 0
+        Z2: 2991
+      main:
+        X1: -401
+        Y1: 255
+        Z1: 3275
+        X2: -850
+        Y2: 0
+        Z2: 2876
+      Mittelinsel:
+        X1: -351
+        Y1: 255
+        Z1: 3225
+        X2: -400
+        Y2: 0
+        Z2: 2926
+  world5_Sinrod_Burg:
+    TPLoc:
+      X: 1200.5
+      Pitch: 0.0
+      Y: 70.0
+      Z: -3339.5
+      Yaw: 0.0
+    EnterMessage: Ho!
+    Permissions:
+      PlayerFlags:
+        0b97a1a0-d667-4e5a-8eec-a0551d203802:
+          fly: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        title: false
+        phantomspawn: false
+        nofly: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 0b97a1a0-d667-4e5a-8eec-a0551d203802
+      OwnerLastKnownName: Fluggonaut
+    CreatedOn: 1501712931801
+    Areas:
+      main:
+        X1: 1263
+        Y1: 255
+        Z1: -3280
+        X2: 1143
+        Y2: 0
+        Z2: -3403
+  world5_Sinrod_Eisbahndamm:
+    TPLoc:
+      X: 1115.5
+      Pitch: 0.0
+      Y: 74.0
+      Z: -3148.5
+      Yaw: 0.0
+    Permissions:
+      PlayerFlags:
+        0b97a1a0-d667-4e5a-8eec-a0551d203802:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 0b97a1a0-d667-4e5a-8eec-a0551d203802
+      OwnerLastKnownName: Fluggonaut
+    CreatedOn: 1505413103229
+    Areas:
+      main:
+        X1: 1261
+        Y1: 255
+        Z1: -3122
+        X2: 969
+        Y2: 0
+        Z2: -3176
+  world5_Sinrod_Pferdefarm:
+    Permissions:
+      PlayerFlags:
+        0b97a1a0-d667-4e5a-8eec-a0551d203802:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 0b97a1a0-d667-4e5a-8eec-a0551d203802
+      OwnerLastKnownName: Fluggonaut
+    CreatedOn: 1608489543706
+    Areas:
+      main:
+        X1: 2040
+        Y1: 255
+        Z1: -3285
+        X2: 1923
+        Y2: 0
+        Z2: -3430
+  world5_Sinrod_Tor:
+    LeaveMessage: 'Ab in die Wildnis! '
+    TPLoc:
+      X: 804.5
+      Pitch: 0.0
+      Y: 127.0
+      Z: -2833.5
+      Yaw: 0.0
+    EnterMessage: 'Willkommen am Tor von Svalbard! '
+    Permissions:
+      PlayerFlags:
+        0b97a1a0-d667-4e5a-8eec-a0551d203802:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 0b97a1a0-d667-4e5a-8eec-a0551d203802
+      OwnerLastKnownName: Fluggonaut
+    CreatedOn: 1501712931849
+    Areas:
+      vorplatzsued:
+        X1: 817
+        Y1: 255
+        Z1: -2760
+        X2: 769
+        Y2: 0
+        Z2: -2803
+      mauerwest:
+        X1: 762
+        Y1: 255
+        Z1: -2829
+        X2: 736
+        Y2: 0
+        Z2: -2839
+      mauerost:
+        X1: 900
+        Y1: 255
+        Z1: -2829
+        X2: 844
+        Y2: 0
+        Z2: -2839
+      main:
+        X1: 849
+        Y1: 255
+        Z1: -2803
+        X2: 759
+        Y2: 0
+        Z2: -2865
+      landebahn:
+        X1: 842
+        Y1: 255
+        Z1: -2673
+        X2: 818
+        Y2: 0
+        Z2: -2804
+  world5_SinrodHbf:
+    LeaveMessage: Gute Reise!
+    TPLoc:
+      X: 699.5
+      Pitch: 0.0
+      Y: 95.0
+      Z: -3209.5
+      Yaw: 0.0
+    EnterMessage: 'Willkommen im Hauptbahnhof Sinrod! '
+    Permissions:
+      PlayerFlags:
+        0b97a1a0-d667-4e5a-8eec-a0551d203802:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 0b97a1a0-d667-4e5a-8eec-a0551d203802
+      OwnerLastKnownName: Fluggonaut
+    CreatedOn: 1501712931784
+    Areas:
+      mauer2:
+        X1: 753
+        Y1: 255
+        Z1: -3245
+        X2: 734
+        Y2: 0
+        Z2: -3264
+      main:
+        X1: 727
+        Y1: 255
+        Z1: -3158
+        X2: 671
+        Y2: 0
+        Z2: -3262
+      mauer1:
+        X1: 733
+        Y1: 255
+        Z1: -3235
+        X2: 727
+        Y2: 0
+        Z2: -3251
+      turm3:
+        X1: 768
+        Y1: 255
+        Z1: -3258
+        X2: 754
+        Y2: 0
+        Z2: -3272
+  world5_Skoven:
+    LeaveMessage: Now leaving %residence.
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        b3160d83-0a14-4abf-80cf-f607267af378:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: b3160d83-0a14-4abf-80cf-f607267af378
+      OwnerLastKnownName: Costamiri
+    CreatedOn: 1564862400184
+    Areas:
+      main:
+        X1: 3515
+        Y1: 254
+        Z1: -1680
+        X2: 3430
+        Y2: 0
+        Z2: -1760
+  world5_SMB_Slime1:
+    Permissions:
+      PlayerFlags:
+        dcf5fe78-bf2b-4093-b865-048819c57eb0:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1506715663471
+    Areas:
+      main:
+        X1: -769
+        Y1: 25
+        Z1: 2495
+        X2: -785
+        Y2: 24
+        Z2: 2481
+  world5_SMB_Slime2:
+    Permissions:
+      PlayerFlags:
+        dcf5fe78-bf2b-4093-b865-048819c57eb0:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1506716288961
+    Areas:
+      main:
+        X1: -817
+        Y1: 27
+        Z1: 2471
+        X2: -831
+        Y2: 25
+        Z2: 2465
+  world5_SMB_Slime3:
+    Permissions:
+      PlayerFlags:
+        dcf5fe78-bf2b-4093-b865-048819c57eb0:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1506716368421
+    Areas:
+      main:
+        X1: -833
+        Y1: 27
+        Z1: 2463
+        X2: -848
+        Y2: 25
+        Z2: 2448
+  world5_SMB_Slime4:
+    Permissions:
+      PlayerFlags:
+        dcf5fe78-bf2b-4093-b865-048819c57eb0:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1506717046074
+    Areas:
+      main:
+        X1: -915
+        Y1: 27
+        Z1: 2415
+        X2: -944
+        Y2: 25
+        Z2: 2401
+  world5_SMB_Slime5:
+    Permissions:
+      PlayerFlags:
+        dcf5fe78-bf2b-4093-b865-048819c57eb0:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1506718014449
+    Areas:
+      main:
+        X1: -1011
+        Y1: 27
+        Z1: 2367
+        X2: -1057
+        Y2: 25
+        Z2: 2351
+  world5_Stylgraad:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -1309.5
+      Pitch: 0.0
+      Y: 82.0
+      Z: -1554.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        461cb2b0-c68d-4087-bb56-2f803ab368c1:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 461cb2b0-c68d-4087-bb56-2f803ab368c1
+      OwnerLastKnownName: RedBlackF
+    CreatedOn: 1501712931856
+    Areas:
+      main:
+        X1: -1180
+        Y1: 255
+        Z1: -1470
+        X2: -1440
+        Y2: 0
+        Z2: -1640
+  world5_Suyeon:
+    LeaveMessage: 'Baibaai '
+    TPLoc:
+      X: -1044.5
+      Pitch: 0.0
+      Y: 70.0
+      Z: -3197.5
+      Yaw: 0.0
+    EnterMessage: 'Willkommen in Suyeon am Yang '
+    Permissions:
+      PlayerFlags:
+        469ce09c-0f90-456f-8410-d9735a9c700f:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 469ce09c-0f90-456f-8410-d9735a9c700f
+      OwnerLastKnownName: Mh_arco
+    CreatedOn: 1501712931817
+    Areas:
+      wuestenabschnitt:
+        X1: -830
+        Y1: 255
+        Z1: -3034
+        X2: -884
+        Y2: 0
+        Z2: -3160
+      alakazam_tor:
+        X1: -753
+        Y1: 255
+        Z1: -2778
+        X2: -853
+        Y2: 0
+        Z2: -2843
+      an_arrakis:
+        X1: -932
+        Y1: 255
+        Z1: -2793
+        X2: -1082
+        Y2: 0
+        Z2: -2910
+      main:
+        X1: -885
+        Y1: 255
+        Z1: -3034
+        X2: -1205
+        Y2: 40
+        Z2: -3362
+      hbf_inseln:
+        X1: -989
+        Y1: 255
+        Z1: -2911
+        X2: -1082
+        Y2: 0
+        Z2: -2979
+      nordwesten:
+        X1: -1396
+        Y1: 255
+        Z1: -3285
+        X2: -1480
+        Y2: 0
+        Z2: -3408
+      npcdorf:
+        X1: -1206
+        Y1: 255
+        Z1: -3094
+        X2: -1394
+        Y2: 0
+        Z2: -3362
+      suy_bhferweiterung:
+        X1: -932
+        Y1: 81
+        Z1: -3003
+        X2: -1106
+        Y2: 62
+        Z2: -3058
+      bahnausfahrten:
+        X1: -909
+        Y1: 255
+        Z1: -2904
+        X2: -988
+        Y2: 0
+        Z2: -2992
+      lochstopfen:
+        X1: -922
+        Y1: 255
+        Z1: -2831
+        X2: -931
+        Y2: 0
+        Z2: -2905
+      bhfSUYNord:
+        X1: -931
+        Y1: 255
+        Z1: -3406
+        X2: -963
+        Y2: 0
+        Z2: -3507
+      suy_biszurweiche:
+        X1: -699
+        Y1: 255
+        Z1: -2775
+        X2: -772
+        Y2: 0
+        Z2: -2832
+      bruecke_nord:
+        X1: -931
+        Y1: 255
+        Z1: -3363
+        X2: -984
+        Y2: 0
+        Z2: -3405
+      altbacken:
+        X1: -729
+        Y1: 255
+        Z1: -2829
+        X2: -922
+        Y2: 0
+        Z2: -3065
+      suy_bhferw2:
+        X1: -912
+        Y1: 255
+        Z1: -2980
+        X2: -1104
+        Y2: 0
+        Z2: -3061
+      pyramide:
+        X1: -975
+        Y1: 255
+        Z1: -2693
+        X2: -1110
+        Y2: 0
+        Z2: -2797
+      wueste_suy_nord:
+        X1: -1000
+        Y1: 255
+        Z1: -3361
+        X2: -1068
+        Y2: 0
+        Z2: -3463
+  world5_Tahuata:
+    LeaveMessage: 'Auf Wiedersehen! '
+    TPLoc:
+      X: -2202.5
+      Pitch: 0.0
+      Y: 72.0
+      Z: 1006.5
+      Yaw: 0.0
+    EnterMessage: 'Willkommen auf Tahuata! '
+    Permissions:
+      PlayerFlags:
+        9f2a49b4-14de-3ea3-ae8c-3fe454c5a93d:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1501712931850
+    Areas:
+      main:
+        X1: -2085
+        Y1: 255
+        Z1: 1091
+        X2: -2321
+        Y2: 0
+        Z2: 920
+  world5_Thallain:
+    LeaveMessage: Now leaving %residence.
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags: {}
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1501712931792
+    Areas:
+      main:
+        X1: 1000
+        Y1: 255
+        Z1: -830
+        X2: 580
+        Y2: 40
+        Z2: -1350
+  world5_Tschingonia:
+    LeaveMessage: Now leaving %residence.
+    Subzones:
+      world5_Tschingonia:
+        LeaveMessage: Now leaving %residence.
+        EnterMessage: Welcome %player to %residence, owned by %owner.
+        Permissions:
+          PlayerFlags:
+            c49cdbbe-d392-4d6f-b043-c02903f5cccf:
+              container: true
+              ignite: true
+              move: true
+              build: true
+              use: true
+          AreaFlags:
+            container: true
+            ignite: true
+            build: true
+            piston: true
+            firespread: false
+            use: true
+            monsters: false
+            pvp: true
+            tnt: true
+            creeper: true
+            flow: true
+          OwnerUUID: c49cdbbe-d392-4d6f-b043-c02903f5cccf
+          OwnerLastKnownName: cwnrfuh
+        CreatedOn: 1592582304101
+        Areas:
+          world5_tschingonia:
+            X1: 269
+            Y1: 62
+            Z1: -470
+            X2: 258
+            Y2: 62
+            Z2: -481
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        c49cdbbe-d392-4d6f-b043-c02903f5cccf:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: c49cdbbe-d392-4d6f-b043-c02903f5cccf
+      OwnerLastKnownName: cwnrfuh
+    CreatedOn: 1504560378315
+    Areas:
+      main:
+        X1: 403
+        Y1: 255
+        Z1: -464
+        X2: 221
+        Y2: 0
+        Z2: -653
+      tsching2:
+        X1: 548
+        Y1: 255
+        Z1: -464
+        X2: 404
+        Y2: 0
+        Z2: -671
+  world5_Vagar:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: 1693.5
+      Pitch: 0.0
+      Y: 64.0
+      Z: -3131.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        0b97a1a0-d667-4e5a-8eec-a0551d203802:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 0b97a1a0-d667-4e5a-8eec-a0551d203802
+      OwnerLastKnownName: Fluggonaut
+    CreatedOn: 1501712931843
+    Areas:
+      main:
+        X1: 1836
+        Y1: 255
+        Z1: -3000
+        X2: 1550
+        Y2: 40
+        Z2: -3265
+  world5_Veronhafen:
+    LeaveMessage: Komm bald wieder, wir haben Kekse!
+    TPLoc:
+      X: -1356.5
+      Pitch: 0.0
+      Y: 76.0
+      Z: 1321.5
+      Yaw: 0.0
+    Subzones:
+      spiderspawner:
+        LeaveMessage: Now leaving %residence.
+        EnterMessage: Welcome %player to %residence, owned by %owner.
+        Permissions:
+          PlayerFlags:
+            f81071bc-2e0d-4d74-8ce8-e89ee29fba28:
+              container: true
+              ignite: true
+              move: true
+              build: true
+              use: true
+          AreaFlags:
+            container: true
+            ignite: true
+            piston: true
+            firespread: false
+            use: true
+            monsters: false
+            pvp: true
+            phantomspawn: false
+            build: true
+            tnt: true
+            creeper: true
+            flow: true
+          OwnerUUID: f81071bc-2e0d-4d74-8ce8-e89ee29fba28
+          OwnerLastKnownName: Isa_L
+        CreatedOn: 1501712931823
+        Areas:
+          spiderspawner:
+            X1: -1311
+            Y1: 33
+            Z1: 1165
+            X2: -1335
+            Y2: 30
+            Z2: 1150
+      mobfarm:
+        LeaveMessage: Now leaving %residence.
+        EnterMessage: Welcome %player to %residence, owned by %owner.
+        Permissions:
+          PlayerFlags:
+            f81071bc-2e0d-4d74-8ce8-e89ee29fba28:
+              container: true
+              ignite: true
+              move: true
+              build: true
+              use: true
+          AreaFlags:
+            container: true
+            ignite: true
+            build: true
+            piston: true
+            firespread: false
+            use: true
+            monsters: true
+            pvp: true
+            tnt: true
+            creeper: true
+            flow: true
+          OwnerUUID: f81071bc-2e0d-4d74-8ce8-e89ee29fba28
+          OwnerLastKnownName: Isa_L
+        CreatedOn: 1587958724500
+        Areas:
+          mobfarm:
+            X1: -1086
+            Y1: 78
+            Z1: 988
+            X2: -1099
+            Y2: 68
+            Z2: 972
+      chemiewerk_mobs:
+        LeaveMessage: Now leaving %residence.
+        EnterMessage: Welcome %player to %residence, owned by %owner.
+        Permissions:
+          PlayerFlags:
+            f81071bc-2e0d-4d74-8ce8-e89ee29fba28:
+              container: true
+              ignite: true
+              move: true
+              build: true
+              use: true
+          AreaFlags:
+            container: true
+            ignite: true
+            build: true
+            piston: true
+            firespread: false
+            use: true
+            monsters: true
+            pvp: true
+            tnt: true
+            creeper: true
+            flow: true
+          OwnerUUID: f81071bc-2e0d-4d74-8ce8-e89ee29fba28
+          OwnerLastKnownName: Isa_L
+        CreatedOn: 1589128404204
+        Areas:
+          chemiewerk_mobs:
+            X1: -1397
+            Y1: 104
+            Z1: 1042
+            X2: -1406
+            Y2: 89
+            Z2: 1033
+      zpmfarm:
+        LeaveMessage: Now leaving %residence.
+        EnterMessage: Welcome %player to %residence, owned by %owner.
+        Permissions:
+          PlayerFlags:
+            11c95567-ac27-3a1e-96ef-2540bcab17f6:
+              container: true
+              ignite: true
+              move: true
+              build: true
+              use: true
+          AreaFlags:
+            container: true
+            ignite: true
+            burn: true
+            firespread: false
+            piston: true
+            use: true
+            monsters: true
+            pvp: true
+            build: true
+            animals: true
+            tnt: true
+            flow: true
+            creeper: true
+          OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+          OwnerLastKnownName: gobo77
+        CreatedOn: 1501712931823
+        Areas:
+          ZpmFarm:
+            X1: -1434
+            Y1: 76
+            Z1: 1274
+            X2: -1435
+            Y2: 70
+            Z2: 1273
+      world5_vp_pferdezucht1:
+        LeaveMessage: Now leaving %residence.
+        EnterMessage: Welcome %player to %residence, owned by %owner.
+        Permissions:
+          PlayerFlags:
+            0b97a1a0-d667-4e5a-8eec-a0551d203802:
+              container: true
+              ignite: true
+              move: true
+              build: true
+              use: true
+          AreaFlags:
+            container: true
+            ignite: true
+            firespread: false
+            piston: true
+            use: true
+            monsters: false
+            pvp: true
+            phantomspawn: false
+            build: true
+            tnt: true
+            creeper: true
+            flow: true
+          OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+          OwnerLastKnownName: gobo77
+        CreatedOn: 1501712931823
+        Areas:
+          world5_VP_Pferdezucht1:
+            X1: -768
+            Y1: 74
+            Z1: 1056
+            X2: -774
+            Y2: 71
+            Z2: 1051
+      world5_vp_pferdezucht2:
+        LeaveMessage: Now leaving %residence.
+        EnterMessage: Welcome %player to %residence, owned by %owner.
+        Permissions:
+          PlayerFlags:
+            0b97a1a0-d667-4e5a-8eec-a0551d203802:
+              container: true
+              ignite: true
+              move: true
+              build: true
+              use: true
+          AreaFlags:
+            container: true
+            ignite: true
+            firespread: false
+            piston: true
+            use: true
+            monsters: false
+            pvp: true
+            phantomspawn: false
+            build: true
+            tnt: true
+            creeper: true
+            flow: true
+          OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+          OwnerLastKnownName: gobo77
+        CreatedOn: 1501712931822
+        Areas:
+          world5_VP_Pferdezucht2:
+            X1: -754
+            Y1: 74
+            Z1: 1056
+            X2: -760
+            Y2: 71
+            Z2: 1051
+    EnterMessage: Willkommen in Veronhafen
+    Permissions:
+      PlayerFlags:
+        c4a8e2a2-b485-4a66-b320-41486c273409:
+          fly: false
+        f81071bc-2e0d-4d74-8ce8-e89ee29fba28:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+        66c099d3-99cc-4b07-b2a7-0a7b17249c03:
+          fly: false
+        67b26b2e-6b63-4bc4-b9d5-74477d2e1d0a:
+          fly: false
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        nofly: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: f81071bc-2e0d-4d74-8ce8-e89ee29fba28
+      OwnerLastKnownName: Isa_L
+    CreatedOn: 1501712931822
+    Areas:
+      rechteck4:
+        X1: -478
+        Y1: 255
+        Z1: 1710
+        X2: -890
+        Y2: 0
+        Z2: 768
+      0317e:
+        X1: -421
+        Y1: 255
+        Z1: 924
+        X2: -560
+        Y2: 0
+        Z2: 890
+      0317f:
+        X1: -410
+        Y1: 255
+        Z1: 1100
+        X2: -560
+        Y2: 0
+        Z2: 925
+      northstanmed:
+        X1: -774
+        Y1: 255
+        Z1: 701
+        X2: -1159
+        Y2: 0
+        Z2: 580
+      rechteck2:
+        X1: -1285
+        Y1: 255
+        Z1: 1188
+        X2: -1436
+        Y2: 0
+        Z2: 993
+      select:
+        X1: -839
+        Y1: 255
+        Z1: 1207
+        X2: -1400
+        Y2: 0
+        Z2: 660
+      0317a:
+        X1: -1327
+        Y1: 255
+        Z1: 1150
+        X2: -1750
+        Y2: 0
+        Z2: 840
+      0317b:
+        X1: -1327
+        Y1: 255
+        Z1: 1250
+        X2: -1560
+        Y2: 0
+        Z2: 1150
+      rechteck5:
+        X1: -890
+        Y1: 255
+        Z1: 1585
+        X2: -1163
+        Y2: 0
+        Z2: 1188
+      0317d:
+        X1: -740
+        Y1: 255
+        Z1: 630
+        X2: -940
+        Y2: 0
+        Z2: 360
+      main:
+        X1: -1163
+        Y1: 255
+        Z1: 1453
+        X2: -1552
+        Y2: 0
+        Z2: 1188
+      hafenwest:
+        X1: -1513
+        Y1: 255
+        Z1: 1220
+        X2: -1665
+        Y2: 0
+        Z2: 1135
+  world5_Wakkanai:
+    LeaveMessage: Now leaving %residence.
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        67b26b2e-6b63-4bc4-b9d5-74477d2e1d0a:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 67b26b2e-6b63-4bc4-b9d5-74477d2e1d0a
+      OwnerLastKnownName: M1dor1
+    CreatedOn: 1567258676613
+    Areas:
+      main:
+        X1: -1580
+        Y1: 254
+        Z1: 3171
+        X2: -2149
+        Y2: 0
+        Z2: 2565
+  world5_Wellyn:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: 1050.5
+      Pitch: 0.0
+      Y: 68.0
+      Z: -2499.5
+      Yaw: 0.0
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        11c95567-ac27-3a1e-96ef-2540bcab17f6:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 11c95567-ac27-3a1e-96ef-2540bcab17f6
+      OwnerLastKnownName: gobo77
+    CreatedOn: 1501712931814
+    Areas:
+      main:
+        X1: 1250
+        Y1: 255
+        Z1: -2300
+        X2: 850
+        Y2: 40
+        Z2: -2700
+  world5_Worldborder:
+    EnterMessage: 'Hier sind Drachen. Kehre um! '
+    Permissions:
+      PlayerFlags:
+        0b97a1a0-d667-4e5a-8eec-a0551d203802:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 0b97a1a0-d667-4e5a-8eec-a0551d203802
+      OwnerLastKnownName: Fluggonaut
+    CreatedOn: 1531662290122
+    Areas:
+      untenrechtsunten:
+        X1: 5000
+        Y1: 255
+        Z1: -5000
+        X2: 0
+        Y2: 0
+        Z2: -5000
+      untenlinksunten:
+        X1: 1
+        Y1: 255
+        Z1: -5000
+        X2: -5000
+        Y2: 0
+        Z2: -5000
+      obenrechtsoben:
+        X1: 5000
+        Y1: 255
+        Z1: 5000
+        X2: 0
+        Y2: 0
+        Z2: 5000
+      obenlinksoben:
+        X1: 0
+        Y1: 255
+        Z1: 5000
+        X2: -5000
+        Y2: 0
+        Z2: 5000
+      main:
+        X1: 5000
+        Y1: 255
+        Z1: 5000
+        X2: 5000
+        Y2: 0
+        Z2: 0
+      obenlinkslinks:
+        X1: -5000
+        Y1: 255
+        Z1: 5000
+        X2: -5000
+        Y2: 0
+        Z2: 1
+      untenrechtsrechts:
+        X1: 5000
+        Y1: 255
+        Z1: -1
+        X2: 5000
+        Y2: 0
+        Z2: -5000
+      untenlinkslinks:
+        X1: -5000
+        Y1: 255
+        Z1: 0
+        X2: -5000
+        Y2: 0
+        Z2: -5000
+  world5_Youswell:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -202.5
+      Pitch: 0.0
+      Y: 86.0
+      Z: 686.5
+      Yaw: 0.0
+    Subzones:
+      zombie_spawnkammer:
+        LeaveMessage: Now leaving %residence.
+        EnterMessage: Welcome %player to %residence, owned by %owner.
+        Permissions:
+          PlayerFlags:
+            ce1bea60-520c-4a83-8b49-bad211f97050:
+              container: true
+              ignite: true
+              move: true
+              build: true
+              use: true
+          AreaFlags:
+            container: true
+            ignite: true
+            firespread: false
+            piston: true
+            build: true
+            use: true
+            monsters: true
+            pvp: true
+            tnt: true
+            creeper: true
+            flow: true
+          OwnerUUID: ce1bea60-520c-4a83-8b49-bad211f97050
+          OwnerLastKnownName: sahelibu
+        CreatedOn: 1501712931788
+        Areas:
+          Zombie_Spawnkammer:
+            X1: -283
+            Y1: 42
+            Z1: 816
+            X2: -289
+            Y2: 36
+            Z2: 809
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        ce1bea60-520c-4a83-8b49-bad211f97050:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        firespread: false
+        piston: true
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: ce1bea60-520c-4a83-8b49-bad211f97050
+      OwnerLastKnownName: sahelibu
+    CreatedOn: 1501712931788
+    Areas:
+      main:
+        X1: 14
+        Y1: 255
+        Z1: 924
+        X2: -420
+        Y2: 0
+        Z2: 447
+  world5_Yustapor:
+    LeaveMessage: 'Sie verlassen Yustapor, Der Vorsitzende grüßt '
+    TPLoc:
+      X: 132.5
+      Pitch: 0.0
+      Y: 64.0
+      Z: -2544.5
+      Yaw: 0.0
+    EnterMessage: 'Wilkommen in Yustapor - Der Doge grüßt '
+    Permissions:
+      PlayerFlags:
+        8cb3a1d4-cd30-48fd-9127-aae4a7b609a3:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerUUID: 8cb3a1d4-cd30-48fd-9127-aae4a7b609a3
+      OwnerLastKnownName: jasiu10
+    CreatedOn: 1501712931853
+    Areas:
+      biergartenerweiterung:
+        X1: 74
+        Y1: 255
+        Z1: -2364
+        X2: -167
+        Y2: 0
+        Z2: -2790
+      main:
+        X1: 213
+        Y1: 255
+        Z1: -2428
+        X2: 51
+        Y2: 0
+        Z2: -2662
+  world5_Zidomo:
+    LeaveMessage: 'Have a Good Day '
+    TPLoc:
+      X: -1005.5
+      Pitch: 0.0
+      Y: 72.0
+      Z: -3772.5
+      Yaw: 0.0
+    EnterMessage: 'Welcome to Zidomo City '
+    Permissions:
+      PlayerFlags:
+        PrincessBubblegum7:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      AreaFlags:
+        container: true
+        ignite: true
+        piston: true
+        firespread: false
+        use: true
+        monsters: false
+        pvp: true
+        phantomspawn: false
+        fly: true
+        build: true
+        tnt: true
+        creeper: true
+        flow: true
+      OwnerLastKnownName: PrincessBubblegum7
+    CreatedOn: 1501712931795
+    Areas:
+      am_meer:
+        X1: -620
+        Y1: 255
+        Z1: -3457
+        X2: -831
+        Y2: 0
+        Z2: -3729
+      main:
+        X1: -804
+        Y1: 255
+        Z1: -3595
+        X2: -1208
+        Y2: 0
+        Z2: -3951
